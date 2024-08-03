@@ -2,7 +2,7 @@ import os
 
 class Config(object):
      
-    BOT_TOKEN = os.environ.get("BOT_TOKEN", "5992501587:AAHG9qI4VZn9EBawIdCM91ORC1nQuEN4VZc")
+    BOT_TOKEN = os.environ.get("BOT_TOKEN", "5992501587:AAGiCkkPIbWYRISAHwmARkSqXnGwQPWyzas")
     API_ID = int(os.environ.get("API_ID", 23990433))
     API_HASH = os.environ.get("API_HASH", "e6c4b6ee1933711bc4da9d7d17e1eb20")
     #Add your channel id. For force Subscribe.
